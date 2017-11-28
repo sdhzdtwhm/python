@@ -1,0 +1,4 @@
+本文档适用于centos6 and centos7 编译安装mysql5.6.36
+python版本为Python2
+1.安装前提需要服务器配置yum源
+2.如需指定安装目录请更改install.py和my.cnf配置文件
